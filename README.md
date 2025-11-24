@@ -64,4 +64,5 @@ python saglik_etl.py      # Temizler ve DB'ye yükler
 python saglik_analizi.py  # Analiz eder ve grafiği çizer
 
 
-Bu proje, açık kaynak veriler kullanılarak eğitim ve portföy amacıyla @kullaniciadi tarafından geliştirilmiştir.
+
+Bu proje, açık kaynak veriler kullanılarak eğitim ve portföy amacıyla @batuhankytn tarafından geliştirilmiştir.
